@@ -1,0 +1,59 @@
+<!--
+Theme name:  Minui-ish
+Theme by:    Takashi
+Forked from: Sagabox
+-->
+
+<theme>
+<formatVersion>7</formatVersion>
+
+    <include>./_art/extra/hidden.xml</include>
+	<include>./_art/extra/helpbar.xml</include>
+  	<variables>
+	    <fullscreenfixSubsetname>Emulationstation Screen Size</fullscreenfixSubsetname>
+		<colorSubsetname>Color</colorSubsetname>
+	</variables>
+	
+	<subset name="fullscreenfix" displayName="${fullscreenfixSubsetname}">
+	    <include name="ES Header" displayName="${ES Header}">./header.xml</include>
+        <include name="ES Fullscreen" displayName="${ES Fullscreen}">./fullscreen.xml</include>
+		<include name="4:3" displayName="${4:3}">./fullscreenv.xml</include>
+		<include name="OGS" displayName="${OGS}">./ogs.xml</include>
+		<include name="RG503" displayName="${RG503}">./503.xml</include>
+		<include name="RGB30" displayName="${RGB30}">./rgb30.xml</include>
+    </subset>
+	
+	<subset name="color" displayName="${colorSubsetname}">
+        <include name="Blue" displayName="${Blue}">./_art/color/blue.xml</include>
+		<include name="Green" displayName="${Green}">./_art/color/green.xml</include>
+        <include name="Mint" displayName="${Mint}">./_art/color/mint.xml</include>
+		<include name="Orange" displayName="${Orange}">./_art/color/orange.xml</include>
+		<include name="Purple" displayName="${Purple}">./_art/color/purple.xml</include>
+		<include name="Red" displayName="${Red}">./_art/color/red.xml</include>
+		<include name="Yellow" displayName="${Yellow}">./_art/color/yellow.xml</include>
+    </subset>
+	
+    <view name="menu">
+    <menuBackground name="menubg">
+	 <color>202020</color>
+    </menuBackground>
+	
+	<menuText name="menutext, menutitle">
+	  <fontPath>./_art/Acre.otf</fontPath>
+	  <fontSize>.038</fontSize>
+	  <color>ffffff</color>
+	</menuText>
+	
+	<menuText name="menufooter, menutextsmall">
+      <fontPath>./_art/Acre.otf</fontPath>
+      <fontSize>.029</fontSize>		 
+      <color>ffffff</color>
+    </menuText>
+	
+	<menuTextEdit name="menutextedit">
+      <inactive>./_art/assets/textinput_inactive.png</inactive>
+      <active>./_art/assets/textinput_active.png</active>
+    </menuTextEdit>
+	</view>
+	
+</theme>
