@@ -18,7 +18,7 @@ MinUI-ish is a super barebones, and beautiful theme for devices running emulatio
 - Customisation - Want to change something? Dive into the themes files to change colors, etc.
 
 ## Compatiblity:
-- [-] test
+- [x] test
 
 
 <img src="github/mainscreen.png">
