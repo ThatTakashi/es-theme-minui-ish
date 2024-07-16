@@ -18,10 +18,10 @@ MinUI-ish is a super barebones, and beautiful theme for devices running emulatio
 - Customisation - Want to change something? Dive into the themes files to change colors, etc.
 
 ## Compatiblity:
-:x: Base Emulationstation
-:heavy_check_mark: Emulationstation FCA mod (ArkOS, RetroOZ)
-:heavy_check_mark: Batocera Emulationstation
-:heavy_check_mark: Emulationstation DE
+:x: Base Emulationstation <br>
+:heavy_check_mark: Emulationstation FCA mod (ArkOS, RetroOZ)<br>
+:heavy_check_mark: Batocera Emulationstation<br>
+:heavy_check_mark: Emulationstation DE<br>
 
 
 <img src="github/mainscreen.png">
