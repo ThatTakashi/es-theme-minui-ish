@@ -23,6 +23,22 @@ MinUI-ish is a super barebones, and beautiful theme for devices running emulatio
 :heavy_check_mark: Batocera Emulationstation<br>
 :heavy_check_mark: Emulationstation DE<br>
 
+## Usage:
+1. Download the theme files from the big green button above labeled "Code"
+2. Unzip the downloaded archive
+3. Open the resulting folder and copy the one folder inside labeled "es-theme-minui-ish-main"
+4. Paste the folder you copied into the emulationstation themes folder. This may be located in different locations based on what you have emulationstation installed on
+   - For ArkOS - Easyroms/roms/themes
+   - For Windows - %Home%/.emulationstation/themes
+     - %Home% is the root of your user folder "C:/Users/{your username}"
+5. Boot up emulationstation and change the theme to MinUI-ish in the UI settings menu
+6. Under theme configuration, ensure that the settings are the same as below
+   - Gamelist View Style - Detailed
+   - Default Grid Size - Automatic
+   - Emulationstation Screen Size - OGS
+   - Hide Help Bar - Yes
+   - Color - Blue
+7. Done! Please enjoy the theme!
 
 <img src="github/mainscreen.png">
 <img src="github/gamelist.png">
