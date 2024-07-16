@@ -1,5 +1,5 @@
 # MinUI-ish
-A super simple emulationstation. Based on the MinUI CFW
+A super simple emulationstation. Based on the MinUI CFW <br>
 Built ontop of <a href="https://github.com/Jetup13/es-theme-sagabox">Sagabox</a> by <a href="https://github.com/Jetup13">Jetup13</a>
 
 ## Table of Contents:
