@@ -41,5 +41,9 @@ MinUI-ish is a super barebones, and beautiful theme for devices running emulatio
    - Color - Blue
 7. Done! Please enjoy the theme!
 
+## Screenshots: (taken from emulationstation on Windows)
 <img src="github/mainscreen.png">
 <img src="github/gamelist.png">
+
+## Contributing:
+While I think this theme is mostly complete, you may have a feature in mind that you want to see included in the theme. If you are knowledgeable in ES theme development, you can fork or download the code, make your changes and submit a pull request. Otherwise if you would like to see a feature included but don't have the knowledge to implement it yourself, please submit an issue and I will look into implementing it for you.
